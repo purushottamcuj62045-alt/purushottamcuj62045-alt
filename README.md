@@ -1,19 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=100&lines=LUFFY" alt="LUFFY" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=60&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=140&lines=LUFFY" alt="LUFFY" />
 </div>
 
 <div align="center">
-
-React | Node.js |
 
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purushottam-k-08a414383/)
-[![X](https://img.shields.io/badge/X%20TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
 [![Portfolio](https://img.shields.io/badge/%F0%9F%94%BA%20PORTFOLIO-FF4500?style=for-the-badge)](https://portfolio.purushottamcuj62045.workers.dev/)
-[![Email](https://img.shields.io/badge/M%20EMAIL-B23121?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purushottamcuj62045@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-B23121?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purushottamcuj62045@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=purushottamcuj62045-alt&style=for-the-badge&color=grey&label=PROFILE+VIEWS)
 
 </div>
