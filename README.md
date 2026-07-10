@@ -1,6 +1,28 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=90&lines=LUFFY" alt="LUFFY" />
-</div>
+```
+
+...:---:    ....::-=::::-:::.  ..                purushottam@luffy
+:.:----:.  ..::-==:.....:-=-:....                -------------------
+:::-==-:...:--::          :::.    ... .          OS: ................. Cybersecurity, Undergrad
+-::====-:-*+-:. .          ...      .......... . Host: ............... Central University of Jammu
+---==+===**-:.. .           ...      ..::.... .  Shell: .............. Kali Linux
+---=++++#+:   -   ..         :.       ...:...... Editor: .............. VS Code
+---=+++%+. ......-=++=::..   ..            .. .. -------------------------------
+---=+=*@=....:=*###*+**#=:                       Languages.Programming:  Python, C
+--==+=+#%-:. +@@%#**#%*:=*=.          .....      Skills: .............. Kali Linux, Networking,
+--=++==+##%*+@@%%%%%@@= .--           ..... ..                          Endpoint Security,
+--==++=-=%%%#%@@@@@%#%-    .        ..........                           Network Security
+--===+=-:+%%+%%@+-++==.  ..       .:.....:....   -------------------------------
+---====::-*+###%**@#==.         :-::.....::..    Email: ............... purushottamcuj62045@gmail.com
+---====:::**=++*#%*:  .        --::.... ......   LinkedIn: ............ purushottam-k
+---===-....:=%+::.  .          :::..... ...  .   Portfolio: ........... portfolio1.purushottamcuj62045.workers.dev
+---==.      -@@%*=:.             ..::.  .:.      Behance: ............. Purushottam
+-:-=:     . -%%@@@%=.             .:.........    Instagram: ........... ottama.09
+::-=..    . -@@%%%%=: :=-           ..::......
+::=: ...     +%@@@%*-=*=.            ..:.::..
+::.     ..    .+%#****:                  .......
+                 .--.                       ...
+
+```
 
 <div align="center">
 
@@ -8,36 +30,6 @@
 [![Portfolio](https://img.shields.io/badge/%F0%9F%94%BA%20PORTFOLIO-FF4500?style=for-the-badge)](https://portfolio1.purushottamcuj62045.workers.dev/)
 [![Email](https://img.shields.io/badge/EMAIL-B23121?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purushottamcuj62045@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=purushottamcuj62045-alt&style=for-the-badge&color=grey&label=PROFILE+VIEWS)
-
-</div>
-
-<br>
-
-```
-
-`.  .. .```.    ...``:..````.                  purushottam@luffy
-`. ....`:::.   .````.     .``.                 -----------------
-:...``.`:::`..::`.          ..                 OS: ................. Cybersecurity, Undergrad
-:`..````:--:`==`.                    ... .     Host: ............... Central University of Jammu
-:```````----==.  .            .       ....   . Shell: .............. Kali Linux
--:`````:---*=    .  `::`.     .                Editor: .............. VS Code
--:``:``:--=#`  ..:=+*+====`                    ------------------------------
-=:``:``:---*+.  :%@#*=*#=`=-.                  Languages.Programming:  Python, C
-+-:::``:--:-+**-#@%%##@@. `:          ..       Skills: .............. Kali Linux, Networking,
-+=::::`:--:`:#%+%@@@%#+*.              ..                             Endpoint Security,
-=-:`:``:--:``+#+*%%:-=-:          ..   ..                              Network Security
-=-:````:--:`.-==+*#*@*:`        .``.    ..     ------------------------------
-=-`````::-:`..=:=-:=-.         .:`..           Email: ............... purushottamcuj62045@gmail.com
-=-`````:::.    .%#:.            .....   .      LinkedIn: ............ purushottam-k
---``:```:      .%@@%*-            ...   .      Portfolio: ........... portfolio1.purushottamcuj62045.workers.dev
---:::`.::      .%%%%@-.  `         . ...       Behance: ............. Purushottam
-.``::``-.       +@@@%+``=:           .....     Instagram: ........... ottama.09
-.`.....          :#%*==+`               ...
-`:`..              .`-`
-``
-.
-
-```
 
 </div>
 
