@@ -11,11 +11,11 @@
 
 </div>
 
-## 💫 About Me:
-🟢 Cybersecurity Student<br>
-🚨 Currently an undergrad at Central University of Jammu<br>
-👾 Always learning something new<br>
-📊 Proficient in: 🦾 Python 🦾 C 🦾 Kali Linux 🦾 Networking 🦾 Endpoint Security 🦾 Network Security
+##  About Me:
+--->Cybersecurity Student<br>
+--->Currently an undergrad at Central University of Jammu<br>
+--->Always learning something new<br>
+---> Proficient in: 🦾 Python 🦾 C 🦾 Kali Linux 🦾 Networking 🦾 Endpoint Security 🦾 Network Security
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Purushottam)
