@@ -5,7 +5,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purushottam-k-08a414383/)
-[![Portfolio](https://img.shields.io/badge/%F0%9F%94%BA%20PORTFOLIO-FF4500?style=for-the-badge)](https://portfolio1.purushottamcuj62045.workers.dev/)
+[![Portfolio]([https://img.shields.io/badge/%F0%9F%94%BA%20PORTFOLIO-FF4500?style=for-the-badge)](https://portfolio1.purushottamcuj62045.workers.dev/](https://portfolio-henna-gamma-32.vercel.app/))
 [![Email](https://img.shields.io/badge/EMAIL-B23121?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purushottamcuj62045@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=purushottamcuj62045-alt&style=for-the-badge&color=grey&label=PROFILE+VIEWS)
 
